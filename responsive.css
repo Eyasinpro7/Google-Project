@@ -1,0 +1,8 @@
+
+@media(max-width:425px) {
+
+    section .footer .row ul {
+        display: block;
+        margin: 10px;
+    }
+}
